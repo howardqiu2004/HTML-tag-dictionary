@@ -1,0 +1,31 @@
+a: "anchor" aka link, makes a link clickable
+atribbutes: href
+example: <a href="https://www.discordapp.com">Discord</a>
+
+h1: Header tag, makes the text large and puts it on a separate line. good for making titles or headings.
+attributes: none
+example: <h1>Howard Qiu</h1>
+
+h6: Header tag, like h1, but the text is smaller. header tages range from h1 to h6, h1 being largest and h6 being smallest. good for subheadings.
+attributes: none
+example: <h6>Things I Like</h6>
+
+img: Attatches an image
+attributes: src
+example: <img src="bread.png">
+
+li: makes a list, can only be used alongside ol or ul
+attributes: none
+example: <li>Rainbow 6 Siege</li>
+
+ol: makes an ordered list, must be used alongside li
+attributes: none
+example: <ol><li>Traffic Jams</li><ol>
+
+p: makes a paragraph/block of text
+attributes: none
+example: <p> aaaaaaaa </p>
+
+ul: makes a bullet list, must be ised alongside li
+attributes: none
+example: <ul><li>Rainbow 6 Siege</li><ul>
